@@ -16,3 +16,5 @@ Hello, welcome to my portfolio! As of 01/21/26, I'm pretty new to web developmen
 - make footer interesting
 - explore one interesting design choice from a popular portfolio
   - 3D assets and interactions: https://bruno-simon.com/
+
+note: link to portfolio [here](https://curator8.github.io/)
