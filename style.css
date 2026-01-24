@@ -13,8 +13,7 @@ body {
 
   border-radius: 50%;
   position: absolute;
-  transition-duration: 200ms;
-  transition-timing-function: ease-out;
+  transition: none;
   animation: cursorAnim 0.5s infinite alternate;
   pointer-events: none;
 }
