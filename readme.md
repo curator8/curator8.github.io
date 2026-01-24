@@ -12,7 +12,8 @@ Hello, welcome to my portfolio! As of 01/21/26, I'm pretty new to web developmen
 - have 3 "coming soon" project sections already layed out
 - add twitter page link
 - have a hero context with my professional pic and introductoin
-- have a funny cursor appear on my portfolio (this may change depending on how it looks)
+- ~~have a funny cursor appear on my portfolio (this may change depending on how it looks)~~
+  - redesign with my own cursor animation
 - make footer interesting
 - explore one interesting design choice from a popular portfolio
   - 3D assets and interactions: https://bruno-simon.com/
