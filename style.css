@@ -1,8 +1,9 @@
+html,
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  /* cursor: none, auto; */
+  cursor: none;
 }
 /* want to update this to come up with custom idea */
 .cursor {
@@ -16,7 +17,6 @@ body {
   transition-timing-function: ease-out;
   animation: cursorAnim 0.5s infinite alternate;
   pointer-events: none;
-  cursor: none;
 }
 
 .cursor::after {
