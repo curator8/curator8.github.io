@@ -6,16 +6,19 @@ Hello, welcome to my portfolio! As of 01/21/26, I'm pretty new to web developmen
 
 - ~~add layout structure to portfolio either via css grid or flex box~~
 - improve the "aesthetic" of site
-- add a contact me box that flows when I hover over
+- ~~add a contact me box that flows with rgb colors when I hover over~~
   - have box change into a message once contact me is submitted
 - have portfolio image slide in from right or left (this may change depending on how it looks)
-- have 3 "coming soon" project sections already layed out
-- add twitter page link
-- have a hero context with my professional pic and introductoin
+- ~~have 3 "coming soon" project sections already layed out~~
+- ~~add twitter page link~~
+- have a hero section with my professional pic and introductoin
 - ~~have a funny cursor appear on my portfolio (this may change depending on how it looks)~~
   - redesign with my own cursor animation
 - make footer interesting
 - explore one interesting design choice from a popular portfolio
   - 3D assets and interactions: https://bruno-simon.com/
+  - animal figure swings in right right
+    - changes to neon when going into dark mode
+- have dark mode implemented
 
 note: link to portfolio [here](https://curator8.github.io/)
