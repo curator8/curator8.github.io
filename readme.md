@@ -5,7 +5,7 @@ Hello, welcome to my portfolio! As of 01/21/26, I'm pretty new to web developmen
 # January Plans 🤔
 
 - ~~add layout structure to portfolio either via css grid or flex box~~
-- improve the "aesthetic" of site
+- ~~improve the "aesthetic" of site~~
 - ~~add a contact me box that flows with rgb colors when I hover over~~
   - have box change into a message once contact me is submitted
 - have portfolio image slide in from right or left (this may change depending on how it looks)
